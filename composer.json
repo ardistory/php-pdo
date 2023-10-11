@@ -1,0 +1,17 @@
+{
+  "name": "ardistory/php-pdo",
+  "description": "PHP PDO",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Ardiansyah Putra",
+      "email": "putraardiansyah530@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "ardiStory\\": "App"
+    }
+  }
+}
